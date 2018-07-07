@@ -37,7 +37,7 @@ let timer;
 let timerInterval;
 
 function init() {
-  //   shuffle(pics);
+  shuffle(pics);
   for (let i = 0; i < pics.length; i++) {
     const card = document.createElement("li");
     card.classList.add("card");
