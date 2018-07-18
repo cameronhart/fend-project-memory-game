@@ -10,7 +10,8 @@ Open the index.html in a web browser and enjoy.
 
 ## Built With
 
-- JavaScript, HTML, and CSS. No third-party libraries.
+- JavaScript, HTML, and CSS.
+- Bootstrap 4
 
 ## Authors
 
